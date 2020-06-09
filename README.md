@@ -1,5 +1,5 @@
 # Gomoku
-A simple 5 game that involves getting 5 in a row to win, coded in processing. (Design Unfinished, Game mechanics pretty much done)
+A simple game that involves getting 5 in a row to win, coded in processing. (Design Unfinished, Game mechanics pretty much done)
 
 How to play: Download all 4 .pde files and run Gomoku.pde. 
 
